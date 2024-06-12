@@ -4,11 +4,13 @@
 
 
 - [Interactive World Map](https://github.com/niabourgeois/WorldMap)
+- [DVD Sales Report](https://github.com/niabourgeois/DVD-Sales-Report)
 
 
 <h2>📺 Demo YouTube Videos</h2>
 
 - [World Map Video](https://www.youtube.com/watch?v=a83ASGn_V_s)
+- [DVD Sales Report Video](https://youtu.be/X5JkK5cMVNA)
 
 
 
