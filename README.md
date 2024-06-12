@@ -2,8 +2,8 @@
 
 <h2>👨‍💻 Software Engineering Projects:</h2>
 
-- <b>Interactive World Map with Angular and APIs</b>
-  - [Interactive World Map](https://github.com/niabourgeois/WorldMap)
+
+- [Interactive World Map](https://github.com/niabourgeois/WorldMap)
 
 
 <h2>📺 Demo YouTube Videos</h2>
