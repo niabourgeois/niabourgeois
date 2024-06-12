@@ -6,7 +6,7 @@
   - [Interactive World Map](https://github.com/niabourgeois/WorldMap)
 
 
-<h2>📺 Popular YouTube Videos</h2>
+<h2>📺 Demo YouTube Videos</h2>
 
 - [World Map Video](https://www.youtube.com/watch?v=a83ASGn_V_s)
 
