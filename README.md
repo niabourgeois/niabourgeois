@@ -5,6 +5,7 @@
 
 - [Interactive World Map](https://github.com/niabourgeois/WorldMap)
 - [DVD Sales Report](https://github.com/niabourgeois/DVD-Sales-Report)
+- [Software Solution Proposal](https://github.com/niabourgeois/Software-Solution-Proposal-)
 
 
 <h2>📺 Demo YouTube Videos</h2>
