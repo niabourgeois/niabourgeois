@@ -28,7 +28,7 @@
 [<img align="left" alt="NiaBourgeois | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 
-[youtube]: https://www.youtube.com/c/niabourgeois
+[youtube]: https://www.youtube.com/channel/UC9ElD5UeKOvDzFsRKDecsGA
 [linkedin]: https://linkedin.com/in/niabourgeois
 
 <!--
