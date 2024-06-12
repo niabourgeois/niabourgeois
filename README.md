@@ -3,7 +3,7 @@
 <h2>👨‍💻 Software Engineering Projects:</h2>
 
 - <b>Interactive World Map with Angular and APIs</b>
-  - [Interactive World Map](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Interactive World Map](https://github.com/niabourgeois/WorldMap)
 
 
 <h2>📺 Popular YouTube Videos</h2>
