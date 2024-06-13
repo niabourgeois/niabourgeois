@@ -3,17 +3,18 @@
 <h2>👨‍💻 Software Engineering Projects:</h2>
 
 
-- [Interactive World Map](https://github.com/niabourgeois/WorldMap)
 - [DVD Sales Report](https://github.com/niabourgeois/DVD-Sales-Report)
 - [Software Solution Proposal](https://github.com/niabourgeois/Software-Solution-Proposal-)
 - [UI UX Design](https://github.com/niabourgeois/UI-UX-Design)
-- [Room Adventure Game](https://github.com/niabourgeois/Room-Adventure)
 
+<h2>👨‍💻Programming Projects:</h2>
+  
+- [Room Adventure Game](https://github.com/niabourgeois/Room-Adventure)
+- [Space Invaders Game](https://github.com/niabourgeois/Space-Invaders)
 
 
 <h2>📺 Demo YouTube Videos</h2>
 
-- [World Map Video]()
 - [DVD Sales Report Video](https://youtu.be/X5JkK5cMVNA)
 
 
