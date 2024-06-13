@@ -6,6 +6,7 @@
 - [DVD Sales Report](https://github.com/niabourgeois/DVD-Sales-Report)
 - [Software Solution Proposal](https://github.com/niabourgeois/Software-Solution-Proposal-)
 - [UI UX Design](https://github.com/niabourgeois/UI-UX-Design)
+- [UX Design](https://github.com/niabourgeois/UX-Design)
 
 <h2>👨‍💻Programming Projects:</h2>
   
