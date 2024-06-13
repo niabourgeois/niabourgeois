@@ -6,11 +6,13 @@
 - [Interactive World Map](https://github.com/niabourgeois/WorldMap)
 - [DVD Sales Report](https://github.com/niabourgeois/DVD-Sales-Report)
 - [Software Solution Proposal](https://github.com/niabourgeois/Software-Solution-Proposal-)
+- [UI UX Design](https://github.com/niabourgeois/UI-UX-Design)
+
 
 
 <h2>📺 Demo YouTube Videos</h2>
 
-- [World Map Video](https://www.youtube.com/watch?v=a83ASGn_V_s)
+- [World Map Video]()
 - [DVD Sales Report Video](https://youtu.be/X5JkK5cMVNA)
 
 
