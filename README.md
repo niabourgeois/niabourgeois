@@ -3,7 +3,7 @@
 <h2>👨‍💻 Software Engineering Projects:</h2>
 
 
-- [DVD Sales Report](https://github.com/niabourgeois/DVD-Sales-Report)
+
 - [Software Solution Proposal](https://github.com/niabourgeois/Software-Solution-Proposal-)
 - [UI UX Design](https://github.com/niabourgeois/UI-UX-Design)
 - [UX Design](https://github.com/niabourgeois/UX-Design)
@@ -12,7 +12,7 @@
   
 - [Room Adventure Game](https://github.com/niabourgeois/Room-Adventure)
 - [Space Invaders Game](https://github.com/niabourgeois/Space-Invaders)
-
+- [DVD Sales Report](https://github.com/niabourgeois/DVD-Sales-Report)
 
 <h2>📺 Demo YouTube Videos</h2>
 
