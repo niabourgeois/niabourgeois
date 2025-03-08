@@ -1,4 +1,4 @@
-<h1>Hi, I'm Nia! <br/><a href="https://github.com/niabourgeois">Programmer</a> & <a href="https://www.linkedin.com/in/niabourgeois/">Software Engineer</a>
+<h1>Hi, I'm Nia! <br/><a href="https://www.linkedin.com/in/niabourgeois/">Software Engineer</a>
 
 
 
