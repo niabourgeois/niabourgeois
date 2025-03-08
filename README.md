@@ -1,24 +1,5 @@
 <h1>Hi, I'm Nia! <br/><a href="https://github.com/niabourgeois">Programmer</a> & <a href="https://www.linkedin.com/in/niabourgeois/">Software Engineer</a>
 
-<h2>👨‍💻 Software Engineering Projects:</h2>
-
-
-
-- [Software Solution Proposal](https://github.com/niabourgeois/Software-Solution-Proposal-)
-- [UI UX Design](https://github.com/niabourgeois/UI-UX-Design)
-- [UX Design](https://github.com/niabourgeois/UX-Design)
-
-<h2>👨‍💻Programming Projects:</h2>
-  
-- [Room Adventure Game](https://github.com/niabourgeois/Room-Adventure)
-- [Space Invaders Game](https://github.com/niabourgeois/Space-Invaders)
-- [DVD Sales Report](https://github.com/niabourgeois/DVD-Sales-Report)
-- [Back End Programming](https://github.com/niabourgeois/Back-End-Programming)
-
-
-<h2>📺 Demo YouTube Videos</h2>
-
-- [DVD Sales Report Video](https://youtu.be/X5JkK5cMVNA)
 
 
 
@@ -36,7 +17,7 @@
 [<img align="left" alt="NiaBourgeois | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 
-[youtube]: https://www.youtube.com/channel/UC9ElD5UeKOvDzFsRKDecsGA
+
 [linkedin]: https://linkedin.com/in/niabourgeois
 
 <!--
